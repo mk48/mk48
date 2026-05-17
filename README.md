@@ -80,12 +80,12 @@ Grafana, Loki
 
 ## 🚧 Personal Projects
 
-* 🧩 [https://sokoban3d.mkumaran.net](3D Sokoban puzzle game)
+* 🧩 [3D Sokoban puzzle game](https://sokoban3d.mkumaran.net)
 * ☁️ Raspberry Pi Kubernetes bare-metal lab
 * 👨‍👩‍👧 Collaborative family tree platform with 1,000+ members
 * 🏥 Pharmacy SaaS & POS systems
-* 🇩🇰 Danish learning quiz platform
-* 📋 Anonymous classroom Q&A platform
+* 🇩🇰 [Danish learning quiz platform](https://learndanish.mkumaran.net)
+* 📋 [Anonymous classroom Q&A platform](https://yaroo.mkumaran.net)
 * 📱 Cross-device clipboard sync app
 * 🚚 Expense tracking app for truck drivers
 

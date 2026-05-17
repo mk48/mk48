@@ -80,7 +80,7 @@ Grafana, Loki
 
 ## 🚧 Personal Projects
 
-* 🧩 3D Sokoban puzzle game
+* 🧩 [https://sokoban3d.mkumaran.net](3D Sokoban puzzle game)
 * ☁️ Raspberry Pi Kubernetes bare-metal lab
 * 👨‍👩‍👧 Collaborative family tree platform with 1,000+ members
 * 🏥 Pharmacy SaaS & POS systems
